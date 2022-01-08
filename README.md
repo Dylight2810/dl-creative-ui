@@ -1,2 +1,2 @@
-# ngx-smart-ui
-A powerful and smart set of open source components for Angular
+# 🔥 Angular Smart UI Components
+📖A powerful and smart set of open source components for Angular
